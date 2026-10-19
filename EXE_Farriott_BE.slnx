@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EXE_Farriott_BE.API/EXE_Farriott_BE.API.csproj" />
+  <Project Path="EXE_Farriott_BE.Repositories/EXE_Farriott_BE.Repositories.csproj" Id="9ccab38a-ec1f-4db6-a099-98c79d568b9f" />
+  <Project Path="EXE_Farriott_BE.Services/EXE_Farriott_BE.Services.csproj" Id="9619009b-b06c-4f46-b745-e6eebc68a16d" />
+</Solution>
